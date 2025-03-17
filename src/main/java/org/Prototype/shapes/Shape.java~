@@ -1,0 +1,4 @@
+package org.Prototype.shapes;
+
+public class Shape {
+}
